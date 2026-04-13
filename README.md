@@ -23,7 +23,7 @@ I am a third-year Computer Science student with a strong passion for technology 
 
 ## How to Reach Me
 - **Email:** Zakariyaenn95@gmail.com 
-- **LinkedIn:** Zakariyae Ennair (https://linkedin.com/in/Zakariyae Ennair)  
+- **LinkedIn:** Zakariyae Ennair (https://linkedin.com/in/ZakariyaeEnnair)  
 - **GitHub:** ze-cago95 (https://github.com/ze-cago95)  
 
 ---
