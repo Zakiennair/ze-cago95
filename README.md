@@ -24,6 +24,7 @@ I am a third-year Computer Science student with a strong passion for technology 
 ## How to Reach Me
 - **Email:** Zakariyaenn95@gmail.com 
 - **LinkedIn:** Zakariyae Ennair (https://www.linkedin.com/in/zakariyae-ennair)
+- **GitHub:** ze-cago95 (https://github.com/Zakiennair)
 
 ---
 ⭐ Feel free to explore my repositories and connect with me!
